@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @chaimaKachroud
 - 👀 I’m interested in  tout ce qui est BigData
   - 🌱 I’m currently learning  DataScience mais je suis debutante
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate sur github
+
 -📫 How to reach me chaimakachroud2019@gmail.com
 
 <!---
