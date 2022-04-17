@@ -3,7 +3,7 @@
   - 🌱 I’m currently learning  DataScience mais je suis debutante
 - 💞️ I’m looking to collaborate sur github
 
--📫 How to reach me chaimakachroud2019@gmail.com
+-📫 How to reach me chaimakachroud971@gmail.com
 
 <!---
 chaimaKachroud/chaimaKachroud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
